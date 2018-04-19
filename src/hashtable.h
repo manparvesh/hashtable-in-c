@@ -9,71 +9,87 @@
  * integer keys, different kinds of values
  * */
 #define KEY_TYPE int
+#define KEY_NAME int
 #define VALUE_TYPE int
 #define VALUE_NAME int
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE int
+#define KEY_NAME int
 #define VALUE_TYPE float
 #define VALUE_NAME float
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE int
+#define KEY_NAME int
 #define VALUE_TYPE double
 #define VALUE_NAME double
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE int
+#define KEY_NAME int
 #define VALUE_TYPE char*
 #define VALUE_NAME string
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 /**
  * string keys, different kinds of values
  * */
 
 #define KEY_TYPE char*
+#define KEY_NAME string
 #define VALUE_TYPE int
 #define VALUE_NAME int
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE char*
+#define KEY_NAME string
 #define VALUE_TYPE float
 #define VALUE_NAME float
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE char*
+#define KEY_NAME string
 #define VALUE_TYPE double
 #define VALUE_NAME double
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #define KEY_TYPE char*
+#define KEY_NAME string
 #define VALUE_TYPE char*
 #define VALUE_NAME string
 #include "generic_hashtable.h"
 #undef KEY_TYPE
 #undef VALUE_TYPE
 #undef VALUE_NAME
+#undef KEY_NAME
 
 #endif //HASHTABLE_IN_C_HASHTABLE_H

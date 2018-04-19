@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.9)
 project(hashtable_in_c C)
 
 set(CMAKE_C_STANDARD 99)
