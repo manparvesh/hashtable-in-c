@@ -1,4 +1,0 @@
-/home/manparvesh/CLionProjects/hashtable-in-c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/manparvesh/CLionProjects/hashtable-in-c/cmake-build-debug/CMakeFiles/test.dir
-/home/manparvesh/CLionProjects/hashtable-in-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/manparvesh/CLionProjects/hashtable-in-c/cmake-build-debug/CMakeFiles/hashtable_test.dir
